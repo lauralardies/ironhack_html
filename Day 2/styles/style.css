@@ -1,11 +1,17 @@
 h1 {
     color: rgb(167, 158, 218); 
     text-decoration: underline; 
-   }
+}
    
-   p {
-     font-size: 18px;
-     width: 400px;
-     text-indent: 50px;
-     text-align: justify;
-   }
+p {
+    font-size: 18px;
+    width: 890px;
+    text-indent: 50px;
+    text-align: justify;
+}
+
+span {
+    color: rgb(185, 222, 101);
+    font-size: 20px;
+    font-weight: bold;
+}
