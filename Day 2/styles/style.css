@@ -15,3 +15,24 @@ span {
     font-size: 20px;
     font-weight: bold;
 }
+
+.blue-box{
+    background-color: rgb(167, 158, 218);
+    color: rgb(219, 63, 63);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.yellow-box{
+    background-color: rgb(241, 196, 15);
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: right;
+}
+
+.red-box{
+    background-color: rgb(219, 63, 63);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
