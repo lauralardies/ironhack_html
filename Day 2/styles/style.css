@@ -52,3 +52,7 @@ span {
     height: 200px;
     background-color: red;
 }
+
+.bold{
+    font-weight: bold;
+}
