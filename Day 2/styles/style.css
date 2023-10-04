@@ -1,3 +1,7 @@
+* {
+    color: green
+}
+
 body {
     background-color: #00D1AE;
 }
@@ -55,4 +59,8 @@ span {
 
 .featured{
     font-weight: bold;
+}
+
+#cover-box{
+    color: navy;
 }
