@@ -1,3 +1,7 @@
+body {
+    background-color: #00D1AE;
+}
+
 h1 {
     color: rgb(167, 158, 218); 
     text-decoration: underline; 
@@ -35,4 +39,16 @@ span {
     background-color: rgb(219, 63, 63);
     color: rgb(255, 255, 255);
     font-size: 15px;
+}
+
+.menu{
+    width: 400px;
+    height: 50px;
+    background-color: #00D1AE;
+}
+
+.content{
+    width: 400px;
+    height: 200;
+    background-color: red;
 }
