@@ -3,3 +3,11 @@ div {
     width: 170px;
     border: 1px solid #17212e;
 }
+
+.circular-div {
+    background-color: #ccc;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 20px 15px 30px 135px;
+}

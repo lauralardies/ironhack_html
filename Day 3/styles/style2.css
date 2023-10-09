@@ -1,0 +1,30 @@
+div {
+    width: 300px;
+    float: left;
+}
+
+.espacio-derecha {
+    margin-right: 20px;
+}
+
+.espacio-abajo {
+    margin-bottom: 20px;
+}
+
+#div-1, #div-5, #div-7{
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    height: 40px;
+}
+
+#div-2, #div-6, #div-8{
+    border: 2px solid brown;
+    background-color: brown;
+    height: 120px;
+}
+
+#div-3, #div-4, #div-9{
+    border: 2px solid burlywood;
+    background-color: burlywood;
+    height: 80px;
+}
