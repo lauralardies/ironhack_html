@@ -1,0 +1,36 @@
+* {
+    font-size: 16px;
+    font-family: Verdana;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: palevioletred;
+    padding: 30px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+.section {
+    display: flex;
+    content: "";
+    border: 1px solid #d3d3d3;
+    align-self: stretch;
+}
+
+.separator {
+    display: flex;
+    content: "";
+    border-right: 1px solid #d3d3d3;
+    align-self: stretch;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+}
