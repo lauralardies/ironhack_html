@@ -11,4 +11,7 @@ while (counter >= 0){
   // Con un for
   for (let i = 30; i >= 0; i--){
       console.log(i);
+    if (i === 0) {
+        console.log("Boom!")
+    }
   }
