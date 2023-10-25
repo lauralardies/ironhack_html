@@ -2,7 +2,13 @@
 
 let counter = 30;
 
+// Con un while
 while (counter >= 0){
-  console.log(counter);
-  counter -= 1;
-} 
+    console.log(counter);
+    counter -= 1;
+  } 
+  
+  // Con un for
+  for (let i = 30; i >= 0; i--){
+      console.log(i);
+  }
